@@ -1,2 +1,2 @@
-# computational_statistics
+# computational-statistics
 msds628
